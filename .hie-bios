@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo "-package-db /home/strax/code/asterius/.stack-work/install/x86_64-linux-custom-asterius-tinfo6/0671aa884eb5d897011421bfec27af080d27cbc3a2310edf2b018a660ca36bb0/8.6.5/share/x86_64-linux-ghc-8.6.5/asterius-0.0.1/.boot/asterius_lib/package.conf.d"

@@ -1,0 +1,3 @@
+packages:                    asterius-sandbox.cabal
+write-ghc-environment-files: never
+jobs:                        $ncpus
